@@ -1,4 +1,4 @@
-### Heyo, I'm Arthur 👋
+# Heyo, I'm Arthur 👋
 ## About Me
 I'm Arthur Jones and I'm currently a computer science senior at Texas Tech University. I'm a huge gamer/nerd/geek. If I'm not coding I'm probably playing video games. 
 
