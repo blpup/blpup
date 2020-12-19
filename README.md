@@ -8,7 +8,7 @@ A monitoring system website using cachet for our super computer at Texas Tech Un
 ## 🌱 I’m currently learning
 Docker
 
-## 🎮 Currently Playing
+## 🎮 I'm currently playing
 Trials of Mana on the Nintendo Switch
 
 ## ⚡ Fun fact
