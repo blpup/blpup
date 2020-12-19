@@ -8,7 +8,10 @@ A monitoring system website using cachet for our super computer at Texas Tech Un
 ## 🌱 I’m currently learning
 Docker
 
-## ⚡ Fun fact:
+## 🎮 Currently Playing
+Trials of Mana on the Nintendo Switch
+
+## ⚡ Fun fact
 Pizza and french fries are the best foods. 
 
 <!--
