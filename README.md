@@ -6,7 +6,7 @@ I'm Arthur Jones and I'm currently a computer science senior at Texas Tech Unive
 A monitoring system website using cachet for our super computer at Texas Tech University. The website will show which services are up or down for our various clusters and other related systems.
 
 ## 🌱 I’m currently learning
-Docker
+Docker and Kubernetes
 
 ## 🎮 I'm currently playing
 Trials of Mana on the Nintendo Switch
